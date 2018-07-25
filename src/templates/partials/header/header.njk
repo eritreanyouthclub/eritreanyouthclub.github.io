@@ -1,6 +1,24 @@
 <header class="main">
+    <div class="colour-bar">
+        <div class="grid-container">
+            <div class="grid-x grid-margin-x va-center">
+                <div class="cell medium-3">
+                    <p class="site-title">{{ site.title }}</p>
+                </div>
+
+                <div class="cell auto">
+                    <nav class="social">
+                        <a href="{{ social.facebook }}" class="icon-link facebook-link">
+                            <i class="fab fa-facebook"></i>
+                        </a>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div class="grid-container">
-        <div class="grid-x grid-margin-x">
+        <div class="grid-x grid-margin-x va-center">
             <div class="cell medium-3">
                 {% include "partials/logo.njk" %}
             </div>

@@ -1,11 +1,38 @@
 header.main {
-  height: $header-size;
+  height: auto;
+  border-bottom: 1px solid $light-gray;
+  text-align: center;
+  background: #fff;
 
-  // Only affects medium screens and down
-  @include breakpoint(small only) {
-    // All CSS in here goes inside the media query
-    height: auto;
-    border-bottom: 1px solid $light-gray;
-    text-align: center;
+  .colour-bar {
+    background: $eyc-red;
+    color: $white;
+    padding: 0.4rem 0;
   }
+
+  .va-center .cell {
+    display: flex;
+    align-items: center;
+  }
+}
+
+nav.social {
+  text-align: right;
+  width: 100%;
+}
+
+.icon-link {
+  padding: 0 0.5rem;
+  color: $white;
+
+  &:last-child {
+    padding-right: 0;
+  }
+}
+
+.site-title {
+  margin: 0;
+  text-align: left;
+  font-size: 1.2rem;
+  font-weight: 500;
 }

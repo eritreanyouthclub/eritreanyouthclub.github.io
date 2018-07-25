@@ -8,8 +8,8 @@ $anchor-color-hover: $dark-gray;
 $dropdown-menu-item-color-active: $anchor-color-hover;
 
 // typography variables
-$body-font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;
-$header-font-family: 'Merriweather', sans-serif;
+$body-font-family: 'Sunflower', 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;
+$header-font-family: 'Bree Serif', sans-serif;
 $body-font-color: $dark-gray;
 $header-color: $black;
 
@@ -40,3 +40,9 @@ $breakpoints: (
         xlarge: 1200px,
         xxlarge: 1440px,
 );
+
+// EYC brand colours
+$eyc-blue: #0265CB;
+$eyc-red: #FE0000;
+$eyc-green: #00FF00;
+$eyc-yellow: #FDFF01;
