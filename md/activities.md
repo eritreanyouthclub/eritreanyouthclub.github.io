@@ -20,8 +20,10 @@ If you are aged between 8 and 19, and are interested in attending any of the eve
 <h2 style="margin-top:75px;">One-off events</h2>
 
 
-We aim to offer a range of one-off events, which support our youth in accessing new opportunities and building skills. These include:
+We aim to offer a range of one-off events, which support our youth in accessing new opportunities and building skills. <b>These include:</b>
 
+
+<img src="/images/kayak_cropped.png" alt="kayak_cropped" style="width: 50%;  float:left; padding-right:20px; margin-right:20px; width:620px;"/>
 
 Unique sporting activities at a range of London venues – this can increase fitness and wellbeing, and grow confidence within our youth.
 *	Kayak
