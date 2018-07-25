@@ -1,4 +1,4 @@
-# ABOUT US
+# About Us
 
 <img src="/images/raft.jpg" alt="Raft" style="width: 70%; padding:20px; float:right;" />
 
