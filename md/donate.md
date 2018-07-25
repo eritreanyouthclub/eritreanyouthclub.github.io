@@ -21,7 +21,7 @@ We are incredibly grateful for their support – the financial assistance that t
 
 Supporting our youth involves a range of costs. If you would like to support our mission, please feel free to leave a donation on our Local Giving page.
 
-<a href="https://localgiving.org/charity/eritrean-youth-club/">Donate</a>
+<a href="https://localgiving.org/charity/eritrean-youth-club/" style="color:#E65100">Donate Now</a>
 
 
 
