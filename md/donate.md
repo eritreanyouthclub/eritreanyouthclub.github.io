@@ -21,11 +21,9 @@ We are incredibly grateful for their support – the financial assistance that t
 
 Supporting our youth involves a range of costs. If you would like to support our mission, please feel free to leave a donation on our Local Giving page.
 
-<a href="https://localgiving.org/charity/eritrean-youth-club/">Donate</a>
+<a href="https://localgiving.org/charity/eritrean-youth-club/" style="color:#E65100;">Donate Now</a>
 
 
 
-
-</br>
 <h2 style="margin-left:0px auto; margin-top:50px;"> Contact us </h2>
 If you are interested in becoming involved in our club – as a member, a fundraiser, or a partner – please reach out to our founder Maria Ghile, mariaghile@hotmail.com
